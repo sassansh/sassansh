@@ -1,4 +1,4 @@
-<h2> Hey there! I'm souvik. <img src="hi.gif" width="25"></h2>
+<h2> Hey there! I'm Sassan. <img src="hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -8,7 +8,7 @@
 - 💼 &nbsp; Backend developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Watching too many movies and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
@@ -32,6 +32,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/sassanshokoohi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sassansh@student.ubc.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/sassanshokoohi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:sassansh@student.ubc.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://sassanshokoohi.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/100/000000/web.png"  width="50" /></a>
 </p>
