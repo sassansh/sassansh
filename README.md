@@ -33,6 +33,6 @@
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/sassanshokoohi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sassansh@student.ubc.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:sassansh@student.ubc.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/100/000000/mail.png"  width="50" /></a>
 &nbsp; <a href="https://sassanshokoohi.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/100/000000/web.png"  width="50" /></a>
 </p>
