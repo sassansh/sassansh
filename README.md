@@ -1,5 +1,4 @@
 <h2> Hey there! I'm souvik. <img src="hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="coding.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
