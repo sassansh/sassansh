@@ -1,38 +1,38 @@
-### Hi there 👋
+<h2> Hey there! I'm souvik. <img src="hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="coding.gif" width="500"/>
 
-# About
-```JavaScript
-const greeting = "Hellooo world Nice to Meet You! 😃"
-```
+<h3> 👨🏻‍💻 About Me </h3>
 
-### Skills🌱: 
-HTML, CSS, Bootstrap, JavaScript, Semantic-UI, React, VueJS, Node.js, Python, Java & Devops.
+- 🔭 &nbsp; I’m currently learning React & VueJS Web Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science & Commerce at UBC.
+- 💼 &nbsp; Backend developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
+- ✍️ &nbsp; Watching too many movies and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
+<h3>🛠 Tech Stack</h3>
 
-### Fun Facts⚡:
-I'm a triplet, play guitar & super excited about autonomous driving.
+- 💻 &nbsp; Python | Java | C++  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Xampp
+- 🔧 &nbsp; PyCharm | Visual Studio Code | Git
+- 🖥 &nbsp; Adobe XD | Figma | Photoshop
 
-<br/>
+<br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sassansh&show_icons=true&theme=default)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sassansh&show_icons=true&theme=default" alt="sassansh's Github Stats">
 
-<br/>
+</br>
+</br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sassansh&layout=compact)
 
 
-<!--
-**sassansh/sassansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🤝🏻 Connect with Me </h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/sassanshokoohi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:sassansh@student.ubc.ca" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
