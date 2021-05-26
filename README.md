@@ -14,7 +14,7 @@ I'm a triplet, play guitar & super excited about autonomous driving.
 
 <br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sassansh&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sassansh&show_icons=true&theme=default)
 
 <br/>
 
