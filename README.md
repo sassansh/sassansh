@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as Software Enginneer at [Xerus Medical](https://www.xerusmedical.com/).
-- 🌱 &nbsp; Learning more about React, Node/Express back-end, & Cloud Architecture.
+- 🌱 &nbsp; Learning more about React, Node.js backends, & Cloud Architecture.
 - 🎓 &nbsp; Studying Computer Science & Commerce at UBC.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
