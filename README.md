@@ -37,6 +37,7 @@
 - 🔧 &nbsp;
   ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws)
   ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=google-cloud)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![Helm Charts](https://img.shields.io/badge/-Helm%20Charts-333333?style=flat&logo=helm)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
