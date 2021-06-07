@@ -25,9 +25,6 @@
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 - ⚙️ &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-  ![Helm Charts](https://img.shields.io/badge/-Helm%20Charts-333333?style=flat&logo=helm)
   ![Nginx](https://img.shields.io/badge/-Ngnix-333333?style=flat&logo=nginx)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -35,6 +32,9 @@
 - 🔧 &nbsp;
   ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+  ![Helm Charts](https://img.shields.io/badge/-Helm%20Charts-333333?style=flat&logo=helm)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
