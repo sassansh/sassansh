@@ -37,10 +37,10 @@
   ![Helm Charts](https://img.shields.io/badge/-Helm%20Charts-333333?style=flat&logo=helm)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
 
 <br/>
 
