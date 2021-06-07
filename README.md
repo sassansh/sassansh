@@ -10,11 +10,14 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C C++](https://img.shields.io/badge/-C%20&%20C++-333333?style=flat&logo=c%2B%2B)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node%2Ejs)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express%2Ejs)
+- 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue.js)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
@@ -41,6 +44,7 @@
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
 
 <br/>
