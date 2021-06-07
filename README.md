@@ -40,15 +40,15 @@
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![Helm Charts](https://img.shields.io/badge/-Helm%20Charts-333333?style=flat&logo=helm)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
-  ![PyCharm](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij%20idea)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+  ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+  ![PyCharm](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij%20idea)
 <br/>
 
 <a href="https://github.com/sassansh">
