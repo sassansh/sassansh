@@ -13,7 +13,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C C++](https://img.shields.io/badge/-C%20&%20C++-333333?style=flat&logo=c%2B%2B)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node%2Ejs)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node-js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express%2Ejs)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -41,6 +41,8 @@
   ![Helm Charts](https://img.shields.io/badge/-Helm%20Charts-333333?style=flat&logo=helm)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+  ![PyCharm](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij%20idea)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
