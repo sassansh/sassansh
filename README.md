@@ -36,7 +36,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws)
-  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=google-cloud)
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![Helm Charts](https://img.shields.io/badge/-Helm%20Charts-333333?style=flat&logo=helm)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
@@ -46,7 +46,7 @@
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
-
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 <br/>
 
 <a href="https://github.com/sassansh">
