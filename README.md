@@ -10,7 +10,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
