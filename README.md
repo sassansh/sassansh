@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Sassan.</h2>
+<h2> Hey there! I'm Sassan.<img src="hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
