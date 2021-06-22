@@ -17,6 +17,7 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=B391F8)
   ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react%20router)
   ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue-dot-js)
   ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=4490E8)
