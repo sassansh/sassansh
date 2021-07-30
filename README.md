@@ -53,7 +53,7 @@
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=73D682)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij%20idea&logoColor=3A77DF)
-<br/>
+  <br/>
 
 <a href="https://github.com/sassansh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sassansh&show_icons=true" />
@@ -62,7 +62,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with M </h3>
 
 <p align="left">
 <a href="https://www.sassanshokoohi.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sassanshokoohi.ca-blue?style=flat-square&logo=safari"></a>
