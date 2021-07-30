@@ -62,7 +62,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with M </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
 <a href="https://www.sassanshokoohi.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sassanshokoohi.ca-blue?style=flat-square&logo=safari"></a>
