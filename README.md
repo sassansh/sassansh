@@ -13,7 +13,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C C++](https://img.shields.io/badge/-C%20&%20C++-333333?style=flat&logo=c%2B%2B)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node-dot-js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -21,11 +21,8 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=B391F8)
   ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react%20router)
   ![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-333333?style=flat&logo=jsonwebtokens)
-  ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue-dot-js)
-  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=4490E8)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=antdesign&logoColor=0170FE)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
@@ -44,7 +41,6 @@
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=6F43B0)
   ![Helm Charts](https://img.shields.io/badge/-Helm%20Charts-333333?style=flat&logo=helm&logoColor=101683)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=635F9C)
-  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
@@ -53,7 +49,6 @@
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=214798)
   ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=73D682)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij%20idea&logoColor=3A77DF)
   <br/>
 
 <a href="https://github.com/sassansh">
