@@ -16,15 +16,16 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node-dot-js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 - 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=B391F8)
   ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react%20router)
+  ![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-333333?style=flat&logo=jsonwebtokens)
   ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue-dot-js)
   ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=4490E8)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
