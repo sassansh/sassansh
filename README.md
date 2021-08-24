@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as Software Enginneer at [Xerus Medical](https://www.xerusmedical.com/).
+- 📚 &nbsp; Currenty, studying full time and and working part time (TA & others).
 - 🌱 &nbsp; Learning more about React, Node.js backends, & Cloud Architecture.
-- 🎓 &nbsp; Studying Computer Science & Commerce at UBC.
+- 🎓 &nbsp; Studying Computer Science & Commerce at UBC (4th year).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
