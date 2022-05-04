@@ -2,16 +2,17 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🎓 &nbsp; Recent Computer Science Graduate from UBC. Looking for new grad positions!
+- 🌱 &nbsp; Learning more about React, Node.js backends & Cloud Architecture.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 📚 &nbsp; Currenty, studying full time and and working part time (TA & others).
-- 🌱 &nbsp; Learning more about React, Node.js backends, & Cloud Architecture.
-- 🎓 &nbsp; Studying Computer Science & Commerce at UBC (4th year).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
   ![C C++](https://img.shields.io/badge/-C%20&%20C++-333333?style=flat&logo=c%2B%2B)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
