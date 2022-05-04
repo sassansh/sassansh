@@ -4,7 +4,9 @@
 
 - 🎓 &nbsp; Recent Computer Science Graduate from UBC. Looking for new grad positions!
 - 🌱 &nbsp; Learning more about React, Node.js backends & Cloud Architecture.
+- 📚 &nbsp; Studying Data Structures and Algorithms
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
