@@ -62,5 +62,5 @@
 <a href="https://www.sassanshokoohi.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sassanshokoohi.ca-blue?style=flat-square&logo=safari"></a>
 <a href="https://www.linkedin.com/in/sassanshokoohi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sassan%20Shokoohi-blue?style=flat-square&logo=linkedin"></a>  
 <a href="https://github.com/sassansh"><img alt="Organization" src="https://img.shields.io/badge/Github-sassansh-blue?style=flat-square&logo=github"></a>
-<a href="mailto:sassansh@student.ubc.ca"><img alt="Email" src="https://img.shields.io/badge/Email-sassansh@student.ubc.ca-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:sassan_shokoohi@me.com"><img alt="Email" src="https://img.shields.io/badge/Email-sassan_shokoohi@me.com-blue?style=flat-square&logo=gmail"></a>
 </p>
