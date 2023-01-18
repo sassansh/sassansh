@@ -49,12 +49,12 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=73D682)
   <br/>
 
-<a href="https://github.com/sassansh">
+<!-- <a href="https://github.com/sassansh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sassansh&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sassansh&layout=compact" />
 </a>
 
-<br/>
+<br/> -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
