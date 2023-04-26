@@ -5,6 +5,6 @@
 - <img src="https://sassanshokoohi.ca/favicon.ico"  width="22" height="22"> Feel free to checkout my [portfolio](https://sassanshokoohi.ca) website!
 - 🏢 Software Engineer [@Veeva](https://www.veeva.com), in Vancouver, BC, Canada
 - 🎓 Bachelor of Computer Science (BCS) [@UBC](https://www.ubc.ca)
-- 🧰 I build with: `JavaScript` `Node.js`, `React.js`, `Java`,  `Python`, `GoLang` ...
+- 🧰 I build with: `JavaScript`, `Node.js`, `React.js`, `Java`,  `Python`, `GoLang` ...
 - ⚡ I enjoy lifting weights, reading, playing volleyball, and photography :)
 - 📫 Reach out to me: sassan_shokoohi@me.com
