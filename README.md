@@ -4,6 +4,7 @@
 
 - <img src="https://sassanshokoohi.ca/favicon.ico"  width="22" height="22"> Feel free to checkout my [portfolio](https://sassanshokoohi.ca) website!
 - 🏢 Software Engineer @ [Veeva Systems](https://www.veeva.com), in Vancouver, BC, Canada
+- 📚 Pursuing Master of Science in Computer Science @ [Georgia Tech](https://www.gatech.edu)
 - 🎓 Bachelor of Computer Science (BCS) @ [UBC](https://www.ubc.ca)
 - 🧰 I build with: `JavaScript`, `Java`, `React.js`, `Node.js`,  `Python`, `GoLang` ...
 - ⚡ I enjoy lifting weights, reading, playing volleyball, and photography :)
